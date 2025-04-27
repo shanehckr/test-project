@@ -19,6 +19,7 @@ public class ArrayEvenNum {
             if (i % 2 == 0) System.out.print(i + " ");
             
             System.out.println("test");
+            System.out.println("testttttt");
         }
         
     }
