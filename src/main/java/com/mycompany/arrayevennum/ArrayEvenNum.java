@@ -22,6 +22,7 @@ public class ArrayEvenNum {
             System.out.println("testttttt");
             System.out.println("branch test");
             System.out.println("text please");
+            System.out.println("hahaahaa");
         }
         
     }
