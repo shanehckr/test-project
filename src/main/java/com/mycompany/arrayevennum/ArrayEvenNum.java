@@ -20,6 +20,8 @@ public class ArrayEvenNum {
             
             System.out.println("test");
             System.out.println("testttttt");
+            System.out.println("branch test");
+            System.out.println("text please");
         }
         
     }
